@@ -20,3 +20,6 @@ npm-debug.log*
 # Editor/OS
 .vscode/
 .DS_Store
+
+# Remove log file in all directories
+*.log
